@@ -17,27 +17,19 @@
   "dependencies": {
     "@transx402/client": "^0.2.6",
     "@transx402/server": "^0.3.0",
-    "next": "16.2.12",
+    "next": "16.4.3",
     "react": "19.2.4",
     "react-dom": "19.2.4"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
-    "@types/node": "^20",
+    "@types/node": "^22.20.5",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
-    "eslint-config-next": "16.2.12",
+    "eslint-config-next": "16.4.3",
     "tailwindcss": "^4",
     "tsx": "^4.23.13",
     "typescript": "^5"
-  },
-  "pnpm": {
-    "overrides": {
-      "@x402/core": "2.18.0",
-      "@x402/evm": "2.18.0",
-      "@x402/extensions": "2.18.0",
-      "@x402/fetch": "2.18.0"
-    }
   }
 }
